@@ -1,0 +1,35 @@
+{
+  "rates": [
+    { "id": 1, "name": "Tabungan", "value": 3.2 },
+    { "id": 2, "name": "Deposito", "value": 5.1 }
+  ],
+  "exchange": [{ "id": 1, "currency": "USD", "value": 15500 }],
+  "user": [{ "id": 1, "name": "Bayu", "balance": 999999999999 }],
+
+  "events": [
+    {
+      "id": 1,
+      "nama": "Java Jazz Festival 2025",
+      "slug": "java-jazz-festival-2025",
+      "img": "java-jazz"
+    },
+    {
+      "id": 2,
+      "nama": "Jakarta Fashion Week",
+      "slug": "jakarta-fashion-week",
+      "img": "java-jazz"
+    },
+    {
+      "id": 3,
+      "nama": "BNI Creative Week",
+      "slug": "bni-creative-week",
+      "img": "java-jazz"
+    },
+    {
+      "id": 4,
+      "nama": "Startup Pitch Day",
+      "slug": "startup-pitch-day",
+      "img": "java-jazz"
+    }
+  ]
+}
